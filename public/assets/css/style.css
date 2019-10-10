@@ -1,0 +1,30 @@
+/*Styling for the Body/HTML components*/
+html {
+    position: relative;
+    min-height:100%;
+}
+
+.jumbotron {
+    /* background-image: url("../images/techbgrnd1.png"); */
+    font-family: 'Unica One', cursive;
+}
+
+.jumbotron-special {
+background-image: url("../images/techbgrnd.jpg");
+background-size: 100% 100%;
+position: relative;
+box-shadow: 10px 5px 20px 2px darkviolet;
+}
+
+
+/* .jumbotron {
+    font-family: 'Unica One', cursive;
+} */
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 80px;
+    color: darkviolet;
+}
