@@ -5,7 +5,7 @@
 Using Cheerio and Mongoose, this app works to scrape Tech News articles from the web and save articles to the MongoDb. Just hit "Scrape Articles" and in a flash Tech News articles will be brought to your screen for you to read and enjoy! 😬 Are you one of those peeps who loves to comment on articles?! 🤓 Well, this app will support your commentary needs and allow you to comment all you want! Hit the "Add Comment" button and add your personal thoughts to view now and later. Enjoy!<br>
 
 Check out the Preview of the App Below<br>
-![WebScraper](webscraper.gif)
+![WebScraper](public/assets/images/webscraper.gif)
 
 <h3><strong>WebScraper Was Built With the Following Technologies:</strong></h3>
 
