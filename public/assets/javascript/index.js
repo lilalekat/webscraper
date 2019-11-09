@@ -1,5 +1,5 @@
-const app = require('express')();
-const path = require('path');
+const app = require("express");
+const path = require("path");
 
 app.set("views", path.join(__dirname, "views"));
 app.set("view engine", "hbs");

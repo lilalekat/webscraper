@@ -1,5 +1,5 @@
 //Making all Models Exportable as One//
 module.exports = {
-    Headline: require("./Headline"),
+    Headline: require("./Headlines"),
     Comment: require("./Comment")
 };
